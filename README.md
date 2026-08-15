@@ -1,5 +1,7 @@
 # ContentForge AI
 
+![ContentForge AI](.github/banner.svg)
+
 **AI-powered social media caption generator** — describe a post, pick a platform and
 tone, and get three ready-to-publish captions with hashtags in seconds.
 
